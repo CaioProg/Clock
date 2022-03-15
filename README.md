@@ -1,7 +1,7 @@
 # Clock
 
 <h2>   <p>
-        Projeito feito no canal da <a href="https://www.youtube.com/channel/UChkdhyimGWNuA2F4yAsyCmQ">Shirley Rios</a>
+        Projeito feito no canal da <a href="https://www.youtube.com/channel/UChkdhyimGWNuA2F4yAsyCmQ">Shirley Rios</a>.
     </p></h2>
     <p align="center">
         <img width="650" src="image/image.png">
